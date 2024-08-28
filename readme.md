@@ -1,4 +1,4 @@
-# LRGB: Long Range Graph Benchmark
+# Analyzing the Long Range Graph Benchmarks and enhancing model performance on them
 
 <img src="https://i.imgur.com/2LKoGbu.png" align="right" width="275"/>
 
